@@ -1,0 +1,39 @@
+
+body{
+   
+    background-color: black;
+}
+
+
+#block1 {
+
+width: 50%;    
+margin-left: 25%;
+margin-right: 25%;
+text-align: center;
+color: ghostwhite;
+font-family: "Libre Baskerville", serif;
+margin-top: 10%;
+
+}
+
+/*not like this you need to specify which image or it will do to all of them*/
+#block1 img{
+    width: 100%;
+    border: 5px whitesmoke solid;
+
+}
+
+#button{
+    margin-top: 50px;
+    width: 60pt;
+    height: 30px;
+   
+    background-color: black;
+}
+
+header{
+margin-top: 60%;
+width: 150%;
+
+}
